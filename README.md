@@ -6,5 +6,7 @@ Features:
 * Dice Rolling Simulator: Simulate rolling a six-sided die multiple times, great for games and probability studies.
 
 Usage: Customize the length of the password and lottery numbers directly in the main function. Feel free to modify and expand the functions to suit your needs.
+
 Contributing: Contributions are welcome! If you have ideas for new features or improvements, please open an issue or submit a pull request.
+
 License: This project is licensed under the MIT License.
